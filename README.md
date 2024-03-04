@@ -1,7 +1,7 @@
 <h1 align="center"> Praktikum Struktur Data dan Algoritma <br /> S1 Informatika UNS </h1>
-<p align ="center">  <img width = "440" height "248" src = "https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/Material/cover.jpg" </p>
+<p align ="center">  <img width = "440" height "248" src = "Material\cover.jpg" </p>
 <h3 align="center"> Tahun Akademik 2022/2023 Semester Genap </h3>
-<h3 align ="center">  >> <a align = "center" href = "https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/DaftarMateri.md"> <span align="center">Lihat Materi</span></a> << </h3>
+<h3 align ="center">  >> <a align = "center" href = "Material\cover.jpg"> <span align="center">Lihat Materi</span></a> << </h3>
 
 <br>
 <p align="right"> <h3>Tim Asisten Dosen :</h3> 
@@ -11,8 +11,6 @@
 
 - Muhammad Syafiq Ibrahim (IF 2022) [Github](https://github.com/SyafiqMSI)
 
-
-<br>
 <h3 align="left">Connect with us:</h3>
 <p align="left">
   <a href="https://wa.me/+6281391611958" target="blank"><img align="center"
