@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/.KULIAH/SEMESTER-4/PraktikumSDA2024",
-      "program": "e:/.KULIAH/SEMESTER-4/PraktikumSDA2024/build/Debug/outDebug",
+      "cwd": "e:/.KULIAH/SEMESTER-4/PraktikumSDA2024/Source/Bab1",
+      "program": "e:/.KULIAH/SEMESTER-4/PraktikumSDA2024/Source/Bab1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
