@@ -12,12 +12,10 @@ Implementasikan algoritma sorting berikut ini menggunakan struktur data yang ses
 
 5.Merge Sort: Implementasikan algoritma Merge Sort untuk mengurutkan elemen-elemen dalam struktur data. Sama seperti sebelumnya, pastikan untuk menangani semua jenis tipe data.
 
-Pastikan untuk menguji setiap implementasi dengan memberikan input yang berbeda, termasuk input terbaik, terburuk, dan rata-rata, serta membandingkan hasilnya.
-
 ## Format Pengumpulan
-Kelas_PSDA06_NIM_NamaLengkap.cpp
+Kelas_PSDA06_NIM_NamaLengkap_No.cpp
 
-Contoh: C_PSDA06_L0522001_AndrianKornelis.cpp
+Contoh: C_PSDA06_L0522001_AndrianKornelis_1.cpp
 
 ## Batas Pengumpulan
-12 Juli 2023, 23:59pm
+21 Mei 2024, 23:59pm
